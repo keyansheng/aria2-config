@@ -1,8 +1,7 @@
 # Install
 
 ```bash
-cd ~/.config
-git clone https://github.com/keyansheng/aria2-settings aria2
+git clone https://github.com/keyansheng/aria2-settings ~/.config/aria2
 ```
 
 # Update
